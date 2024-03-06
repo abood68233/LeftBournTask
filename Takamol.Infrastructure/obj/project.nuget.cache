@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "jP4Oh6NygchGhEnz0kP9uI84XDElM47IrhE7vymLm02X1duEaETQjKRrosdq3yjBF3fMSN787SfbMOpwnWQNvw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\abdullah.ali\\Desktop\\Takamol\\Takamol.Infrastructure\\Takamol.Infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "juT5crpBZ/7QGpH1SEb6k/Z3M2JOr4o2HTONO2Klg9Uq/E/IAbINl/ug4rnzZRlhJ/9/lYuWklP3v5V/nKphZg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\abdullah.ali\\Desktop\\Takamol\\Takamol.Applicaion\\Takamol.Applicaion.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "FluentValidation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "BundleTransformer.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "MediatR"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNet.Identity.EntityFramework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Identity.Stores"
+    }
+  ]
+}

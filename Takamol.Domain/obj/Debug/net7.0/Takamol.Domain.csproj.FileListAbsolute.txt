@@ -1,0 +1,14 @@
+D:\Takamol\Takamol.Domain\bin\Debug\net7.0\Takamol.Domain.deps.json
+D:\Takamol\Takamol.Domain\bin\Debug\net7.0\Takamol.Domain.dll
+D:\Takamol\Takamol.Domain\bin\Debug\net7.0\Takamol.Domain.pdb
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.csproj.AssemblyReference.cache
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.AssemblyInfoInputs.cache
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.AssemblyInfo.cs
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.csproj.CoreCompileInputs.cache
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.dll
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\refint\Takamol.Domain.dll
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.pdb
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\ref\Takamol.Domain.dll
+D:\Takamol\Takamol.Domain\bin\Debug\net7.0\Takamol.Domain.runtimeconfig.json
+D:\Takamol\Takamol.Domain\obj\Debug\net7.0\Takamol.Domain.genruntimeconfig.cache

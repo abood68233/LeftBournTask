@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "mY1hMswLdm9JXwEV4k9RfXii9ZgkiIMV77Ucn+xvKRcud7m4zmDvdNHyT8j/q1cwjBAqGnrdMQ2qE5NzPJzlrw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\abdullah.ali\\Desktop\\Takamol\\Takamol.Domain\\Takamol.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNet.Identity.EntityFramework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Identity.Stores"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.80.9\\Dot_Net\\SharedDlls\\NT_Packages' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}
